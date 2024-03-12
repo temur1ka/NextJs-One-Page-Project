@@ -44,7 +44,7 @@ install ShadCn-ui, FramerMotion and Radix Icons:
 ```bash
 # ShadCn
 npx shadcn-ui@latest init
-npx shadcn-ui@latest add card
+npx shadcn-ui@latest add button
 
 #FramerMotion
 npm install framer-motion
